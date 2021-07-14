@@ -61,7 +61,7 @@ So I've decided to make my own algorithm. The idea is to find a distande between
 ![resolve overlapping](https://github.com/AlexPryshchenko/Automation-of-CST-Microwave-Studio-with-Python/blob/main/readme_files/resolved_overlapping.png)
 
 >Distance is calculating by well-known expression from geometry: 
->>![distance](readme_files/https://github.com/AlexPryshchenko/Automation-of-CST-Microwave-Studio-with-Python/blob/main/readme_files/distance.png)
+>>![distance](https://github.com/AlexPryshchenko/Automation-of-CST-Microwave-Studio-with-Python/blob/main/readme_files/distance.png)
 
 Of course this method is not perfect and compels to insert smaller non-intersected spheres, which are located closer than double maximun radius, BUT:
 + Insert of non-overlapped objects does not delete them.

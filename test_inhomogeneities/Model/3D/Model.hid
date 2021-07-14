@@ -1,0 +1,116 @@
+20100312
+[start]hidden_objects
+[end]hidden_objects
+[start]history_fast_undo
+[start]undo_item
+[start]block_index
+4
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "component1:ground_brick"
+Solid.Delete "component1:ground_brick"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+10
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "component1:solid1"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+15
+[end]block_index
+[start]command
+'@ transform: rotate PMN
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "PMN" 
+     .Origin "Free" 
+     .Center "0", "0", "0" 
+     .Angle "-1*0", "-1*180", "-1*0" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "False" 
+     .Transform "Shape", "Rotate" 
+End With 
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+16
+[end]block_index
+[start]command
+'@ transform: translate PMN
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "PMN" 
+     .Vector "(-1)*0", "(-1)*0", "(-1)*300" 
+     .UsePickedPoints "False" 
+     .InvertPickedPoints "False" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "False" 
+     .Transform "Shape", "Translate" 
+End With 
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[end]history_fast_undo
+[start]PortAndLumpedLabelState
+[start]ShowLabels
+1
+[end]ShowLabels
+[start]ShowLabelsShort
+1
+[end]ShowLabelsShort
+[start]ZoomDependPortLabels
+1
+[end]ZoomDependPortLabels
+[end]PortAndLumpedLabelState
+[start]adaption_criteria_store
+[end]adaption_criteria_store
+[start]diagnostic_info
+[start]import_item
+[start]file
+1.cby
+[end]file
+[start]invalid_names
+[end]invalid_names
+[end]import_item
+[end]diagnostic_info

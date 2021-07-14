@@ -1,0 +1,19 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2021.1 - Nov 10 2020 - ACIS 30.0.1 -
+[Author]
+SASHA
+[Mesh Cells]
+
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Unavailable
+[Comment]
